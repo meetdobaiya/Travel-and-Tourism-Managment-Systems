@@ -2,10 +2,7 @@
 
 A full-featured Travel and Tourism Management System designed to streamline the booking and management of travel-related services such as flights, hotels, tour packages, and cabs. This platform caters to multiple users, including customers, employees, guest users, and administrators, ensuring a smooth and secure travel experience.
 
-**Team Members:**
-- Deep Kakadiya – 202301097 *(Team Leader)*
-- Meet Dobariya – 202301115  
-- Bhavya Bhanvadiya – 202301123  
+ 
 
 ## 🎯 Objective
 
